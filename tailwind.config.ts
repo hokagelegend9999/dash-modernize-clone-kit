@@ -19,6 +19,17 @@ export default {
 		},
 		extend: {
 			colors: {
+				modernize: {
+					primary: '#3B82F6',
+					secondary: '#6366F1',
+					success: '#10B981',
+					info: '#0EA5E9',
+					warning: '#F59E0B',
+					danger: '#EF4444',
+					light: '#F3F4F6',
+					dark: '#1F2937',
+				},
+			colors: {
 				border: 'hsl(var(--border))',
 				input: 'hsl(var(--input))',
 				ring: 'hsl(var(--ring))',
